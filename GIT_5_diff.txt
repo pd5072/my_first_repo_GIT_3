@@ -1,0 +1,2 @@
+1. Utworzono nie istniejący wcześniej plik drugi_plik.txt, a następnie dodano 2 linie tekstu.
+2. Zmodyfikowano drugi_plik.txt - dodano 1 linię "hello world", nic nie usunięto.
