@@ -1,0 +1,35 @@
+commit 882dc583607f63c1c6e003c512179ab5b313d03e
+Author: alkaj <pd5072@pjwstk.edu.pl>
+Date:   Tue Nov 11 21:14:46 2025 +0100
+
+    GIT_5_diff.txt
+
+commit 774e829d86441f1e4fc4310eef3049a49166ef10
+Author: alkaj <pd5072@pjwstk.edu.pl>
+Date:   Tue Nov 11 20:56:47 2025 +0100
+
+    README.md
+
+commit 51e9f6cb0d68b3cae64de17a01029c92ba33bd93
+Author: alkaj <pd5072@pjwstk.edu.pl>
+Date:   Tue Nov 11 20:42:23 2025 +0100
+
+    Track status files, append Hello world, restore deleted file
+
+commit f69ab6ee3f2d029b0c4faea1e41fd5cbbb095b9d
+Author: alkaj <pd5072@pjwstk.edu.pl>
+Date:   Tue Nov 11 20:37:21 2025 +0100
+
+    Add status snapshots GIT_4_status1.txt and GIT_4_status2.txt
+
+commit 93891c8ff86e7358fe2cd3c32665e82c94489fe2
+Author: alkaj <pd5072@pjwstk.edu.pl>
+Date:   Tue Nov 11 20:27:26 2025 +0100
+
+    Add GIT_1_idea files and pomysl.png graphic
+
+commit d9be89339184b0861cbf15de3dea2d5d16397889
+Author: alkaj <pd5072@pjwstk.edu.pl>
+Date:   Tue Nov 11 20:01:32 2025 +0100
+
+    [200~
