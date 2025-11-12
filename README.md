@@ -9,7 +9,7 @@
 1. 12.11.2025
 2. 21:45
 
-'git init' 
+`git init`
 
 Praca z gałęziami i rozwiązywanie konfliktów.
 
