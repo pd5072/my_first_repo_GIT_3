@@ -1,0 +1,42 @@
+48df1f9 HEAD@{0}: commit: GIT_9_reset.txt
+114d3a4 HEAD@{1}: reset: moving to HEAD~1
+318078a HEAD@{2}: commit: GIT_9_log.txt
+114d3a4 HEAD@{3}: commit: GIT_cherry-pick_done.txt
+2a44857 HEAD@{4}: cherry-pick: GIT_8_cherry-pick.txt
+03366c8 HEAD@{5}: checkout: moving from test to master
+1aaa0ee HEAD@{6}: commit: GIT_8_cherry-pick.txt
+7b54968 HEAD@{7}: checkout: moving from master to test
+03366c8 HEAD@{8}: commit: GIT_8_rebase.txt
+fe3425c HEAD@{9}: rebase (finish): returning to refs/heads/master
+fe3425c HEAD@{10}: rebase (squash): GIT_8_branch.txt
+1ab6061 HEAD@{11}: rebase (start): checkout HEAD~2
+fcdcbf8 HEAD@{12}: commit: GIT_8_stan.txt
+1ab6061 HEAD@{13}: commit: GIT_8_branch.txt
+e52a626 HEAD@{14}: merge test: Merge made by the 'ort' strategy.
+4a0ce86 HEAD@{15}: checkout: moving from test to master
+7b54968 HEAD@{16}: commit: GIT_8_diff.txt
+fcfdcdf HEAD@{17}: commit: GIT_8_log.txt
+8bbd30d HEAD@{18}: checkout: moving from master to test
+4a0ce86 HEAD@{19}: commit: GIT_8_stash_list.txt
+ba67b07 HEAD@{20}: reset: moving to HEAD
+ba67b07 HEAD@{21}: commit: GIT_7_branch.txt
+65ce417 HEAD@{22}: commit (merge): GIT_7_conflict.txt
+c2f3d9a HEAD@{23}: checkout: moving from test to master
+8bbd30d HEAD@{24}: commit: README.md
+8b0c74a HEAD@{25}: checkout: moving from master to test
+c2f3d9a HEAD@{26}: commit: README.md
+8ea6e5f HEAD@{27}: checkout: moving from test to master
+8b0c74a HEAD@{28}: checkout: moving from master to test
+8ea6e5f HEAD@{29}: checkout: moving from test to master
+8b0c74a HEAD@{30}: commit: GIT_7_log.txt
+9637a64 HEAD@{31}: commit: GIT_7_ls.txt
+8ea6e5f HEAD@{32}: checkout: moving from master to test
+8ea6e5f HEAD@{33}: commit: GIT_6_show.txt
+4e9df67 HEAD@{34}: commit: GIT_6_log_oneline.txt
+479624b HEAD@{35}: commit: GIT_6_log_oneline.txt
+882dc58 HEAD@{36}: commit: GIT_5_diff.txt
+774e829 HEAD@{37}: commit: README.md
+51e9f6c HEAD@{38}: commit: Track status files, append Hello world, restore deleted file
+f69ab6e HEAD@{39}: commit: Add status snapshots GIT_4_status1.txt and GIT_4_status2.txt
+93891c8 HEAD@{40}: commit: Add GIT_1_idea files and pomysl.png graphic
+d9be893 HEAD@{41}: commit (initial): [200~
