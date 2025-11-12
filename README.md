@@ -1,10 +1,13 @@
-\*\*Przedmiot:\*\* Systemy kontroli wersji
+# Systemy kontroli wersji
 
-\*\*Repozytorium:\*\* my\_first\_repo\_GIT\_3
-\*\*Autorka:\*\* Alicja Jurek
-\*\*Numer słuchacza:\*\* \*pd5072\*
+**Repozytorium:** my_first_repo_GIT_3
+**Alicja Jurek**
+*pd5072*
 
+1. 12.11.2025
+2. 21:45
 
+'git init' 
 
 Praca z gałęziami i rozwiązywanie konfliktów.
 
