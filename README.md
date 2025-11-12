@@ -4,3 +4,7 @@
 \*\*Autorka:\*\* Alicja Jurek
 \*\*Numer słuchacza:\*\* \*pd5072\*
 
+
+
+Tym wpisem chcemy wywołać konflikt.
+
