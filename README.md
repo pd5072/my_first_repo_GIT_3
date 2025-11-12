@@ -1,7 +1,9 @@
 # Systemy kontroli wersji
 
 **Repozytorium:** my_first_repo_GIT_3
+
 **Alicja Jurek**
+
 *pd5072*
 
 1. 12.11.2025
