@@ -4,3 +4,7 @@
 \*\*Autorka:\*\* Alicja Jurek
 \*\*Numer słuchacza:\*\* \*pd5072\*
 
+
+
+Praca z gałęziami i rozwiązywanie konfliktów.
+
