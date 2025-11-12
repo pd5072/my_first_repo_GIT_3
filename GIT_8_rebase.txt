@@ -1,0 +1,23 @@
+* fe3425c GIT_8_branch.txt
+*   e52a626 Merge branch 'test'
+|\  
+| * 7b54968 GIT_8_diff.txt
+| * fcfdcdf GIT_8_log.txt
+* | 4a0ce86 GIT_8_stash_list.txt
+* | ba67b07 GIT_7_branch.txt
+* | 65ce417 GIT_7_conflict.txt
+|\| 
+| * 8bbd30d README.md
+| * 8b0c74a GIT_7_log.txt
+| * 9637a64 GIT_7_ls.txt
+* | c2f3d9a README.md
+|/  
+* 8ea6e5f GIT_6_show.txt
+* 4e9df67 GIT_6_log_oneline.txt
+* 479624b GIT_6_log_oneline.txt
+* 882dc58 GIT_5_diff.txt
+* 774e829 README.md
+* 51e9f6c Track status files, append Hello world, restore deleted file
+* f69ab6e Add status snapshots GIT_4_status1.txt and GIT_4_status2.txt
+* 93891c8 Add GIT_1_idea files and pomysl.png graphic
+* d9be893 [200~
