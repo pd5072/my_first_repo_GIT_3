@@ -13,6 +13,6 @@
 
 Praca z gałęziami i rozwiązywanie konfliktów.
 
-Tym wpisem chcemy wywołać konflikt.
+Tym wpisem chcemy wywołać konflikt .
 
 
